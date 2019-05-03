@@ -2,7 +2,8 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-*.xml
+
 /CSharp/Blaze/.vs/Blaze/v15/Server/sqlite3
 /CSharp/Blaze/Blaze/obj/Debug/netcoreapp2.2
 /CSharp/Blaze/Blaze/obj
+/Java/.idea
